@@ -59,3 +59,6 @@ Additional Visulizations:
 - Though this data is very informative, the need for such services can be very different. 
   - the data was gathered from a city with a much higer population than the possible new location. Perhaps find data from a city comperable in size. Perform the same calculations     so the investors have data more in line with the area to be served
  - the data was gathered from a city with a lot of businesess in a dense area. Perhaps find data from a location that is less dense but has a need for other forms of convient        transportation. Perform the same calculations so the investors have data more in line with the area to be served
+
+
+[dashboard and story link] https://public.tableau.com/app/profile/pam.noble/viz/NYCCitiBikeAnalysis_16338022958910/NumberofTrips?publish=yes
