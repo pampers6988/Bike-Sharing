@@ -31,11 +31,7 @@ The data set contained bike-sharing data related to 2,344,224 bike trips in NYC.
 
 
 
-![NYC Citi Bike](https://user-images.githubusercontent.com/74462990/136674399-c780e7a3-f890-4603-aee4-38f369808cb5.png)
-
-
-
-
+![NYC Citibike  (1)](https://user-images.githubusercontent.com/74462990/136674477-9f01585e-dc26-4083-9370-29b08853c324.png)
 
 
 ![Trips by Weekday](https://user-images.githubusercontent.com/74462990/136674405-505d46b0-b9ea-425e-8eb9-2ab2721a865e.png)
