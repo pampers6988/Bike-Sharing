@@ -10,12 +10,12 @@ Younger riders go for a longer the ride duration
 ![Average Trip Duration by Age](https://user-images.githubusercontent.com/74462990/136674360-376a397e-95f8-4a21-b1b3-c3d5ac481d16.png)
 
 
-
+Most riders prefer early evening rides
 ![_peak riding hours in August](https://user-images.githubusercontent.com/74462990/136674303-68287e03-eb22-4bf7-800f-06419c7b572f.png)
 
 
 
-
+Men ride more than women
 ![Gender Breakdown](https://user-images.githubusercontent.com/74462990/136674305-40a14e99-d07d-4f41-a76f-ed44debc2c2c.png)
 
 
