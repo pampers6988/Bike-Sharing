@@ -6,7 +6,7 @@ The purpose of the analysis is to use citibike data from NYC and present potenti
 ## Results:
 The data set contained bike-sharing data related to 2,344,224 bike trips in NYC.
 
-
+Younger riders go for a longer the ride duration
 ![Average Trip Duration by Age](https://user-images.githubusercontent.com/74462990/136674360-376a397e-95f8-4a21-b1b3-c3d5ac481d16.png)
 
 
