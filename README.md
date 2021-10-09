@@ -9,16 +9,18 @@ The purpose of the analysis is to use citibike data from NYC and present potenti
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 
-https://public.tableau.com/app/profile/pam.noble/viz/NYCCitiBikeAnalysis_16338022958910/NumberofTrips?publish=yes
 
 
 
 
 
 
+![Checkout Times ](https://user-images.githubusercontent.com/74462990/136671953-879efa9c-3819-4604-818e-75c73af86c5a.png)
 
 
 
+
+![Checkout Time by Gender](https://user-images.githubusercontent.com/74462990/136671956-840c4e6d-2e10-4722-b474-5f2d2c1ee3f4.png)
 
 
 
