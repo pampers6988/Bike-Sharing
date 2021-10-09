@@ -45,9 +45,9 @@ The data set contained bike-sharing data related to 2,344,224 bike trips in NYC.
 
 
 
+![User Trips by Gender by Weekday (2)](https://user-images.githubusercontent.com/74462990/136674442-82c8ca28-2c71-4c20-a391-5cfafd8c01a7.png)
 
 
-![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/74462990/136674408-c1843942-64d3-44e0-82f6-4d703e48da4b.png)
 
 
 
