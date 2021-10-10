@@ -61,4 +61,5 @@ Additional Visulizations:
  - the data was gathered from a city with a lot of businesess in a dense area. Perhaps find data from a location that is less dense but has a need for other forms of convient        transportation. Perform the same calculations so the investors have data more in line with the area to be served
 
 
-[dashboard and story link] https://public.tableau.com/app/profile/pam.noble/viz/NYCCitiBikeAnalysis_16338022958910/NumberofTrips?publish=yes
+[story link] https://public.tableau.com/app/profile/pam.noble/viz/NYCCitiBikeAnalysis_16338022958910/NumberofTrips?publish=yes
+[dashboard link] https://public.tableau.com/app/profile/pam.noble/viz/NYCCitiBikeAnalysis_16338022958910/Dashboard4?publish=yes
